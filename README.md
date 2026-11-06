@@ -4,7 +4,7 @@ An analysis of 470 Roman olive oil amphorae (Dressel 20) from five workshops in 
 (present-day Andalusia, Spain), using machine learning to find out whether a jar's shape
 reveals where it was made.
 
-**Blog post:** [link to your blog post here]
+**Blog post:** (https://medium.com/@osama.almamari2k2/the-rim-gives-it-away-blog-post-acdb6f49a82e)
 
 ## Table of Contents
 
